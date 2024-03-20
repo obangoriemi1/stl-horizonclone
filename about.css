@@ -1,0 +1,46 @@
+#seccard{
+    background-color:rgb(255, 255, 255);
+    width: 400px;
+    height: 290px;
+    padding: 5px;
+    border-radius: 25px;
+    margin-left: 90px;
+
+}
+
+#govcard{
+    background-color: white;
+    width: 400px;
+    height: 250px;
+    padding: 5px;
+    border-radius: 25px;
+    margin-left: 90px;
+    margin-top: 20px;
+
+}
+#collacard{
+    background-color: white;
+    width: 400px;
+    height: 290px;
+    padding: 5px;
+    border-radius: 25px;
+    margin-left: 90px;
+    margin-top: 40px;
+
+}
+
+
+#seccard h1{
+text-align: left;
+
+}
+
+#govcard h1{
+    text-align: left;
+    
+    }
+    
+#collacard h1{
+    text-align: left;
+    
+    }
